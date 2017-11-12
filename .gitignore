@@ -1,0 +1,19 @@
+
+## Unreal Generated Files
+########################
+#/.vs
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+UE4PG1/Content/StarterContent/
+
+## VS Generated Files
+#####################
+
+*.VC.db
+*.suo
+*.VC.opndb
+*.sln:wq
+
