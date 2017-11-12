@@ -1,0 +1,172 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACTORPICKERMODE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ACTORPICKERMODE_API /;"	d
+ADDCONTENTDIALOG_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ADDCONTENTDIALOG_API /;"	d
+AHowTo_AutoCameraGameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.gen.cpp	/^	DEFINE_VTABLE_PTR_HELPER_CTOR(AHowTo_AutoCameraGameModeBase);$/;"	v
+AHowTo_AutoCameraGameModeBase	Source/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.h	/^class HOWTO_AUTOCAMERA_API AHowTo_AutoCameraGameModeBase : public AGameModeBase$/;"	c
+AIMODULE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define AIMODULE_API /;"	d
+APPLICATIONCORE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define APPLICATIONCORE_API /;"	d
+ASSETREGISTRY_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ASSETREGISTRY_API /;"	d
+ASSETTOOLS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ASSETTOOLS_API /;"	d
+AUDIOEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define AUDIOEDITOR_API /;"	d
+AUDIOMIXER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define AUDIOMIXER_API /;"	d
+AUTOMATIONCONTROLLER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define AUTOMATIONCONTROLLER_API /;"	d
+BLUEPRINTGRAPH_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define BLUEPRINTGRAPH_API /;"	d
+BSPMODE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define BSPMODE_API /;"	d
+CLASSVIEWER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define CLASSVIEWER_API /;"	d
+CLOTHINGSYSTEMRUNTIMEINTERFACE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define CLOTHINGSYSTEMRUNTIMEINTERFACE_API /;"	d
+COLLECTIONMANAGER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define COLLECTIONMANAGER_API /;"	d
+CONTENTBROWSER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define CONTENTBROWSER_API /;"	d
+COREUOBJECT_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define COREUOBJECT_API /;"	d
+CORE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define CORE_API /;"	d
+CURRENT_FILE_ID	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define CURRENT_FILE_ID /;"	d
+CURRENT_FILE_ID	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#undef CURRENT_FILE_ID$/;"	d
+DATABASESUPPORT_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define DATABASESUPPORT_API /;"	d
+DEPRECATED_FORGAME	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define DEPRECATED_FORGAME /;"	d
+DEPRECATED_FORGAME	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#undef DEPRECATED_FORGAME$/;"	d
+DETAILCUSTOMIZATIONS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define DETAILCUSTOMIZATIONS_API /;"	d
+DIRECTORYWATCHER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define DIRECTORYWATCHER_API /;"	d
+DOCUMENTATION_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define DOCUMENTATION_API /;"	d
+EDITORSTYLE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define EDITORSTYLE_API /;"	d
+ENABLE_HTTP_FOR_NFS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ENABLE_HTTP_FOR_NFS /;"	d
+ENGINEMESSAGES_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ENGINEMESSAGES_API /;"	d
+ENGINESETTINGS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ENGINESETTINGS_API /;"	d
+ENGINE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ENGINE_API /;"	d
+EmptyLinkFunctionForGeneratedCodeHowTo_AutoCameraGameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.gen.cpp	/^void EmptyLinkFunctionForGeneratedCodeHowTo_AutoCameraGameModeBase() {}$/;"	f
+EmptyLinkFunctionForGeneratedCodeHowTo_AutoCamera_init	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCamera.init.gen.cpp	/^void EmptyLinkFunctionForGeneratedCodeHowTo_AutoCamera_init() {}$/;"	f
+FUNCTIONALTESTING_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define FUNCTIONALTESTING_API /;"	d
+GAMEPLAYDEBUGGER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define GAMEPLAYDEBUGGER_API /;"	d
+GAMEPLAYTAGS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define GAMEPLAYTAGS_API /;"	d
+GAMEPLAYTASKS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define GAMEPLAYTASKS_API /;"	d
+GRAPHEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define GRAPHEDITOR_API /;"	d
+HARDWARESURVEY_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define HARDWARESURVEY_API /;"	d
+HAS_METAL	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define HAS_METAL /;"	d
+HEADMOUNTEDDISPLAY_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define HEADMOUNTEDDISPLAY_API /;"	d
+HIERARCHICALLODUTILITIES_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define HIERARCHICALLODUTILITIES_API /;"	d
+HOWTO_AUTOCAMERA_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define HOWTO_AUTOCAMERA_API /;"	d
+HOWTO_AUTOCAMERA_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#undef HOWTO_AUTOCAMERA_API$/;"	d
+HOWTO_AUTOCAMERA_HowTo_AutoCameraGameModeBase_generated_h	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HOWTO_AUTOCAMERA_HowTo_AutoCameraGameModeBase_generated_h$/;"	d
+HTTP_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define HTTP_API /;"	d
+HTTP_PACKAGE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define HTTP_PACKAGE /;"	d
+HowTo_AutoCamera	Source/HowTo_AutoCamera/HowTo_AutoCamera.Build.cs	/^	public HowTo_AutoCamera(ReadOnlyTargetRules Target) : base(Target)$/;"	m	class:HowTo_AutoCamera
+HowTo_AutoCamera	Source/HowTo_AutoCamera/HowTo_AutoCamera.Build.cs	/^public class HowTo_AutoCamera : ModuleRules$/;"	c
+HowTo_AutoCameraEditorTarget	Source/HowTo_AutoCameraEditor.Target.cs	/^	public HowTo_AutoCameraEditorTarget(TargetInfo Target) : base(Target)$/;"	m	class:HowTo_AutoCameraEditorTarget
+HowTo_AutoCameraEditorTarget	Source/HowTo_AutoCameraEditor.Target.cs	/^public class HowTo_AutoCameraEditorTarget : TargetRules$/;"	c
+HowTo_AutoCameraTarget	Source/HowTo_AutoCamera.Target.cs	/^	public HowTo_AutoCameraTarget(TargetInfo Target) : base(Target)$/;"	m	class:HowTo_AutoCameraTarget
+HowTo_AutoCameraTarget	Source/HowTo_AutoCamera.Target.cs	/^public class HowTo_AutoCameraTarget : TargetRules$/;"	c
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_12_PROLOG	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_12_PROLOG$/;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_ENHANCED_CONSTRUCTORS	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_ENHANCED_CONSTRUCTORS /;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_GENERATED_BODY	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_GENERATED_BODY /;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_GENERATED_BODY_LEGACY	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_GENERATED_BODY_LEGACY /;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_INCLASS	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_INCLASS /;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_INCLASS_NO_PURE_DECLS	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_INCLASS_NO_PURE_DECLS /;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET$/;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_RPC_WRAPPERS	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_RPC_WRAPPERS$/;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS$/;"	d
+HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_STANDARD_CONSTRUCTORS	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.generated.h	/^#define HowTo_AutoCamera_Source_HowTo_AutoCamera_HowTo_AutoCameraGameModeBase_h_15_STANDARD_CONSTRUCTORS /;"	d
+IMAGEWRAPPER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define IMAGEWRAPPER_API /;"	d
+INPUTCORE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define INPUTCORE_API /;"	d
+INTROTUTORIALS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define INTROTUTORIALS_API /;"	d
+IS_MONOLITHIC	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define IS_MONOLITHIC /;"	d
+IS_PROGRAM	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define IS_PROGRAM /;"	d
+JSON_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define JSON_API /;"	d
+KISMETCOMPILER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define KISMETCOMPILER_API /;"	d
+KISMET_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define KISMET_API /;"	d
+LANDSCAPE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define LANDSCAPE_API /;"	d
+LEVELEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define LEVELEDITOR_API /;"	d
+LOAD_PLUGINS_FOR_TARGET_PLATFORMS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define LOAD_PLUGINS_FOR_TARGET_PLATFORMS /;"	d
+LOCALIZATION_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define LOCALIZATION_API /;"	d
+MESHMERGEUTILITIES_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define MESHMERGEUTILITIES_API /;"	d
+MESHREDUCTIONINTERFACE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define MESHREDUCTIONINTERFACE_API /;"	d
+MESHUTILITIES_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define MESHUTILITIES_API /;"	d
+MESSAGINGCOMMON_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define MESSAGINGCOMMON_API /;"	d
+MESSAGING_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define MESSAGING_API /;"	d
+MOVIESCENETRACKS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define MOVIESCENETRACKS_API /;"	d
+MOVIESCENE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define MOVIESCENE_API /;"	d
+NDEBUG	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define NDEBUG /;"	d
+NETWORKFILESYSTEM_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define NETWORKFILESYSTEM_API /;"	d
+NETWORKREPLAYSTREAMING_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define NETWORKREPLAYSTREAMING_API /;"	d
+ORIGINAL_FILE_NAME	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define ORIGINAL_FILE_NAME /;"	d
+PACKETHANDLER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define PACKETHANDLER_API /;"	d
+PLATFORM_APPLE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define PLATFORM_APPLE /;"	d
+PLATFORM_MAC	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define PLATFORM_MAC /;"	d
+PROJECTS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define PROJECTS_API /;"	d
+PROPERTYEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define PROPERTYEDITOR_API /;"	d
+RELIABILITYHANDLERCOMPONENT_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define RELIABILITYHANDLERCOMPONENT_API /;"	d
+RENDERCORE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define RENDERCORE_API /;"	d
+RENDERER_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define RENDERER_API /;"	d
+RHI_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define RHI_API /;"	d
+SANDBOXFILE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SANDBOXFILE_API /;"	d
+SCENEDEPTHPICKERMODE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SCENEDEPTHPICKERMODE_API /;"	d
+SETTINGS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SETTINGS_API /;"	d
+SHADERCORE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SHADERCORE_API /;"	d
+SLATECORE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SLATECORE_API /;"	d
+SLATE_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SLATE_API /;"	d
+SLATE_DEFERRED_DESIRED_SIZE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SLATE_DEFERRED_DESIRED_SIZE /;"	d
+SOCKETS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SOCKETS_API /;"	d
+SOCKETS_PACKAGE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SOCKETS_PACKAGE /;"	d
+SOURCECONTROL_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SOURCECONTROL_API /;"	d
+SOURCE_CONTROL_WITH_SLATE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SOURCE_CONTROL_WITH_SLATE /;"	d
+SYNTHBENCHMARK_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define SYNTHBENCHMARK_API /;"	d
+StaticRegisterNativesAHowTo_AutoCameraGameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.gen.cpp	/^	void AHowTo_AutoCameraGameModeBase::StaticRegisterNativesAHowTo_AutoCameraGameModeBase()$/;"	f	class:AHowTo_AutoCameraGameModeBase
+UBT_COMPILED_PLATFORM	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UBT_COMPILED_PLATFORM /;"	d
+UBT_COMPILED_TARGET	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UBT_COMPILED_TARGET /;"	d
+UE_BUILD_DEVELOPMENT	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UE_BUILD_DEVELOPMENT /;"	d
+UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME /;"	d
+UE_BUILD_MINIMAL	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UE_BUILD_MINIMAL /;"	d
+UE_EDITOR	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UE_EDITOR /;"	d
+UE_ENABLE_ICU	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UE_ENABLE_ICU /;"	d
+UE_IS_ENGINE_MODULE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UE_IS_ENGINE_MODULE /;"	d
+UE_IS_ENGINE_MODULE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#undef UE_IS_ENGINE_MODULE$/;"	d
+UE_PROJECT_NAME	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UE_PROJECT_NAME /;"	d
+UMG_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UMG_API /;"	d
+UNICODE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UNICODE /;"	d
+UNREALAUDIO_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UNREALAUDIO_API /;"	d
+UNREALEDMESSAGES_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UNREALEDMESSAGES_API /;"	d
+UNREALED_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UNREALED_API /;"	d
+USE_CACHE_FREED_OS_ALLOCS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define USE_CACHE_FREED_OS_ALLOCS /;"	d
+USE_CHECKS_IN_SHIPPING	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define USE_CHECKS_IN_SHIPPING /;"	d
+USE_EMBREE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define USE_EMBREE /;"	d
+USE_LOGGING_IN_SHIPPING	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define USE_LOGGING_IN_SHIPPING /;"	d
+USE_STATS_WITHOUT_ENGINE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define USE_STATS_WITHOUT_ENGINE /;"	d
+UTILITYSHADERS_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define UTILITYSHADERS_API /;"	d
+VREDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define VREDITOR_API /;"	d
+WITH_APEX	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_APEX /;"	d
+WITH_APEX_CLOTHING	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_APEX_CLOTHING /;"	d
+WITH_CEF3	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_CEF3 /;"	d
+WITH_CLOTH_COLLISION_DETECTION	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_CLOTH_COLLISION_DETECTION /;"	d
+WITH_COREUOBJECT	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_COREUOBJECT /;"	d
+WITH_DATABASE_SUPPORT	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_DATABASE_SUPPORT /;"	d
+WITH_DEV_AUTOMATION_TESTS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_DEV_AUTOMATION_TESTS /;"	d
+WITH_DIRECTXMATH	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_DIRECTXMATH /;"	d
+WITH_EDITOR	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_EDITOR /;"	d
+WITH_ENGINE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_ENGINE /;"	d
+WITH_FREETYPE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_FREETYPE /;"	d
+WITH_GAMEPLAY_DEBUGGER	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_GAMEPLAY_DEBUGGER /;"	d
+WITH_LIBCURL	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_LIBCURL /;"	d
+WITH_LOGGING_TO_MEMORY	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_LOGGING_TO_MEMORY /;"	d
+WITH_NVCLOTH	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_NVCLOTH /;"	d
+WITH_PERFCOUNTERS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_PERFCOUNTERS /;"	d
+WITH_PERF_AUTOMATION_TESTS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_PERF_AUTOMATION_TESTS /;"	d
+WITH_PHYSX	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_PHYSX /;"	d
+WITH_PHYSX_COOKING	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_PHYSX_COOKING /;"	d
+WITH_PLUGIN_SUPPORT	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_PLUGIN_SUPPORT /;"	d
+WITH_RECAST	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_RECAST /;"	d
+WITH_SERVER_CODE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_SERVER_CODE /;"	d
+WITH_SPEECH_RECOGNITION	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_SPEECH_RECOGNITION /;"	d
+WITH_SSL	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_SSL /;"	d
+WITH_TTS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_TTS /;"	d
+WITH_UNREALEXR	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_UNREALEXR /;"	d
+WITH_UNREALJPEG	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_UNREALJPEG /;"	d
+WITH_UNREALPNG	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_UNREALPNG /;"	d
+WITH_UNREAL_DEVELOPER_TOOLS	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_UNREAL_DEVELOPER_TOOLS /;"	d
+WITH_XGE_CONTROLLER	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define WITH_XGE_CONTROLLER /;"	d
+Z_Construct_UClass_AHowTo_AutoCameraGameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.gen.cpp	/^	UClass* Z_Construct_UClass_AHowTo_AutoCameraGameModeBase()$/;"	f
+Z_Construct_UClass_AHowTo_AutoCameraGameModeBase_NoRegister	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.gen.cpp	/^	UClass* Z_Construct_UClass_AHowTo_AutoCameraGameModeBase_NoRegister()$/;"	f
+Z_Construct_UPackage__Script_HowTo_AutoCamera	Intermediate/Build/Mac/UE4Editor/Inc/HowTo_AutoCamera/HowTo_AutoCamera.init.gen.cpp	/^	UPackage* Z_Construct_UPackage__Script_HowTo_AutoCamera()$/;"	f
+_UNICODE	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define _UNICODE /;"	d
+__UNREAL__	Intermediate/Build/Mac/UE4Editor/Development/HowTo_AutoCamera/Definitions.HowTo_AutoCamera.h	/^#define __UNREAL__ /;"	d
