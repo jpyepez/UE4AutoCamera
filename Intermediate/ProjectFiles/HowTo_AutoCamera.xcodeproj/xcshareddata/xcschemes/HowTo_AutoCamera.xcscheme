@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "972BFBEC045FD079163C0959"
+               BlueprintIdentifier = "D6DF438CF75B8698D4E5DE42"
                BuildableName = "HowTo_AutoCamera.app"
                BlueprintName = "HowTo_AutoCamera"
                ReferencedContainer = "container:HowTo_AutoCamera.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "972BFBEC045FD079163C0959"
+               BlueprintIdentifier = "D6DF438CF75B8698D4E5DE42"
                BuildableName = "HowTo_AutoCamera.app"
                BlueprintName = "HowTo_AutoCamera"
                ReferencedContainer = "container:HowTo_AutoCamera.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "972BFBEC045FD079163C0959"
+               BlueprintIdentifier = "D6DF438CF75B8698D4E5DE42"
                BuildableName = "HowTo_AutoCamera.app"
                BlueprintName = "HowTo_AutoCamera"
                ReferencedContainer = "container:HowTo_AutoCamera.xcodeproj">
@@ -84,7 +84,7 @@
          runnableDebuggingMode = "0">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "972BFBEC045FD079163C0959"
+               BlueprintIdentifier = "D6DF438CF75B8698D4E5DE42"
                BuildableName = "HowTo_AutoCamera.app"
                BlueprintName = "HowTo_AutoCamera"
                ReferencedContainer = "container:HowTo_AutoCamera.xcodeproj">

@@ -13,11 +13,15 @@
 		91F6DDE87770C5A225363F8F /* DefaultEditor.ini in Sources */ = {isa = PBXBuildFile; fileRef = 9F1A6E3CBDFC1C4D72A426E5 /* DefaultEditor.ini */; };
 		1CA02256E208777020EF3683 /* DefaultEngine.ini in Sources */ = {isa = PBXBuildFile; fileRef = 5873D72E80F5FC38B15BAE4B /* DefaultEngine.ini */; };
 		2C4E399CAD3837ECD0F8CBD6 /* DefaultGame.ini in Sources */ = {isa = PBXBuildFile; fileRef = 4E6FC01DBECF6EAFE3EBE34A /* DefaultGame.ini */; };
-		1D0756A416B65E2FB5BCE4CF /* HowTo_AutoCamera.Build.cs in Sources */ = {isa = PBXBuildFile; fileRef = 9B4837A481FBF5E6E248DE69 /* HowTo_AutoCamera.Build.cs */; };
-		BC361900503E33110928E17C /* HowTo_AutoCamera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F78FBB6524984F847F38251 /* HowTo_AutoCamera.cpp */; };
-		8378ED11D10724D529EDE8DF /* HowTo_AutoCamera.h in Sources */ = {isa = PBXBuildFile; fileRef = 9C5DDE7789D3C67366BB5509 /* HowTo_AutoCamera.h */; };
-		003F9498C3E522C9B4C77CD8 /* HowTo_AutoCameraGameModeBase.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50213F01030C5261901B19F4 /* HowTo_AutoCameraGameModeBase.cpp */; };
-		6A0D6E742C0EEBC822E41092 /* HowTo_AutoCameraGameModeBase.h in Sources */ = {isa = PBXBuildFile; fileRef = 738B1143CA1F2BD5E1062667 /* HowTo_AutoCameraGameModeBase.h */; };
+		1D0756A416B65E2FB5BCE4CF /* CameraDirector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B4837A481FBF5E6E248DE69 /* CameraDirector.cpp */; };
+		BC361900503E33110928E17C /* CameraDirector.h in Sources */ = {isa = PBXBuildFile; fileRef = 4F78FBB6524984F847F38251 /* CameraDirector.h */; };
+		8378ED11D10724D529EDE8DF /* HowTo_AutoCamera.Build.cs in Sources */ = {isa = PBXBuildFile; fileRef = 9C5DDE7789D3C67366BB5509 /* HowTo_AutoCamera.Build.cs */; };
+		003F9498C3E522C9B4C77CD8 /* HowTo_AutoCamera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50213F01030C5261901B19F4 /* HowTo_AutoCamera.cpp */; };
+		6A0D6E742C0EEBC822E41092 /* HowTo_AutoCamera.h in Sources */ = {isa = PBXBuildFile; fileRef = 738B1143CA1F2BD5E1062667 /* HowTo_AutoCamera.h */; };
+		93C56F5968F378E525A02DB6 /* HowTo_AutoCameraGameModeBase.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 76AE9CA5DCB4B56B11AD8D78 /* HowTo_AutoCameraGameModeBase.cpp */; };
+		FB0F9771EF441264E606E066 /* HowTo_AutoCameraGameModeBase.h in Sources */ = {isa = PBXBuildFile; fileRef = 9E925F2F6C2B6CD35D5ACC1C /* HowTo_AutoCameraGameModeBase.h */; };
+		8285F82C51BB56E638F75D59 /* Mover.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5C07F5E18DC9CF70CD36074A /* Mover.cpp */; };
+		5585FFE540B91AA0427AEE69 /* Mover.h in Sources */ = {isa = PBXBuildFile; fileRef = 4BE6122BAFFA2EA73405D364 /* Mover.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,59 +31,65 @@
 		9F1A6E3CBDFC1C4D72A426E5 /* DefaultEditor.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultEditor.ini"; path = "../../Config/DefaultEditor.ini"; sourceTree = SOURCE_ROOT; };
 		5873D72E80F5FC38B15BAE4B /* DefaultEngine.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultEngine.ini"; path = "../../Config/DefaultEngine.ini"; sourceTree = SOURCE_ROOT; };
 		4E6FC01DBECF6EAFE3EBE34A /* DefaultGame.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultGame.ini"; path = "../../Config/DefaultGame.ini"; sourceTree = SOURCE_ROOT; };
-		9B4837A481FBF5E6E248DE69 /* HowTo_AutoCamera.Build.cs */ = {isa = PBXFileReference; explicitFileType = file.text; name = "HowTo_AutoCamera.Build.cs"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCamera.Build.cs"; sourceTree = SOURCE_ROOT; };
-		4F78FBB6524984F847F38251 /* HowTo_AutoCamera.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "HowTo_AutoCamera.cpp"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCamera.cpp"; sourceTree = SOURCE_ROOT; };
-		9C5DDE7789D3C67366BB5509 /* HowTo_AutoCamera.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "HowTo_AutoCamera.h"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCamera.h"; sourceTree = SOURCE_ROOT; };
-		50213F01030C5261901B19F4 /* HowTo_AutoCameraGameModeBase.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "HowTo_AutoCameraGameModeBase.cpp"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.cpp"; sourceTree = SOURCE_ROOT; };
-		738B1143CA1F2BD5E1062667 /* HowTo_AutoCameraGameModeBase.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "HowTo_AutoCameraGameModeBase.h"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.h"; sourceTree = SOURCE_ROOT; };
-		26EF33FF2CA2B253744D5F92 /* HowTo_AutoCamera */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = HowTo_AutoCamera; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B4837A481FBF5E6E248DE69 /* CameraDirector.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "CameraDirector.cpp"; path = "../../Source/HowTo_AutoCamera/CameraDirector.cpp"; sourceTree = SOURCE_ROOT; };
+		4F78FBB6524984F847F38251 /* CameraDirector.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "CameraDirector.h"; path = "../../Source/HowTo_AutoCamera/CameraDirector.h"; sourceTree = SOURCE_ROOT; };
+		9C5DDE7789D3C67366BB5509 /* HowTo_AutoCamera.Build.cs */ = {isa = PBXFileReference; explicitFileType = file.text; name = "HowTo_AutoCamera.Build.cs"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCamera.Build.cs"; sourceTree = SOURCE_ROOT; };
+		50213F01030C5261901B19F4 /* HowTo_AutoCamera.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "HowTo_AutoCamera.cpp"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCamera.cpp"; sourceTree = SOURCE_ROOT; };
+		738B1143CA1F2BD5E1062667 /* HowTo_AutoCamera.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "HowTo_AutoCamera.h"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCamera.h"; sourceTree = SOURCE_ROOT; };
+		76AE9CA5DCB4B56B11AD8D78 /* HowTo_AutoCameraGameModeBase.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "HowTo_AutoCameraGameModeBase.cpp"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.cpp"; sourceTree = SOURCE_ROOT; };
+		9E925F2F6C2B6CD35D5ACC1C /* HowTo_AutoCameraGameModeBase.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "HowTo_AutoCameraGameModeBase.h"; path = "../../Source/HowTo_AutoCamera/HowTo_AutoCameraGameModeBase.h"; sourceTree = SOURCE_ROOT; };
+		5C07F5E18DC9CF70CD36074A /* Mover.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "Mover.cpp"; path = "../../Source/HowTo_AutoCamera/Mover.cpp"; sourceTree = SOURCE_ROOT; };
+		4BE6122BAFFA2EA73405D364 /* Mover.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "Mover.h"; path = "../../Source/HowTo_AutoCamera/Mover.h"; sourceTree = SOURCE_ROOT; };
+		4DC5E81330357AFE082E7EFC /* HowTo_AutoCamera */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = HowTo_AutoCamera; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D409F9444F9D2A144B222481 = {
+		25CBA853871B94563D996E08 = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC361900503E33110928E17C /* HowTo_AutoCamera.cpp in Sources */,
-				003F9498C3E522C9B4C77CD8 /* HowTo_AutoCameraGameModeBase.cpp in Sources */,
+				1D0756A416B65E2FB5BCE4CF /* CameraDirector.cpp in Sources */,
+				003F9498C3E522C9B4C77CD8 /* HowTo_AutoCamera.cpp in Sources */,
+				93C56F5968F378E525A02DB6 /* HowTo_AutoCameraGameModeBase.cpp in Sources */,
+				8285F82C51BB56E638F75D59 /* Mover.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXContainerItemProxy section */
-		D71772C22808BB6C01D08E1C /* PBXContainerItemProxy */ = {
+		0520C487CCF4842035268818 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5593CB2AA1A4AF9D90D7D614 /* Project object */;
+			containerPortal = 64DEAB534F978967DA209CCC /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F01D31DC2975D932958E1A4D;
+			remoteGlobalIDString = D409F9444F9D2A144B222481;
 			remoteInfo = "HowTo_AutoCamera_Build";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXTargetDependency section */
-		8C716FB348391394805E6C64 /* PBXTargetDependency */ = {
+		0DFB867C9E909641174148A9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F01D31DC2975D932958E1A4D /* HowTo_AutoCamera_Build */;
-			targetProxy = D71772C22808BB6C01D08E1C /* PBXContainerItemProxy */;
+			target = D409F9444F9D2A144B222481 /* HowTo_AutoCamera_Build */;
+			targetProxy = 0520C487CCF4842035268818 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXGroup section */
-		0520C487CCF4842035268818 = {
+		E447EBFFA00438404F087EE8 = {
 			isa = PBXGroup;
 			children = (
-				B0ACFFB3A8BC8523DB278419 /* Source */,
-				C798D184C4D7F2B4F3FCCDAF /* Config */,
+				FCAED5F7C62D7483B3741A73 /* Source */,
+				611F74AB8AA00525C72BEB26 /* Config */,
 				10E4841AB4578BB4EF66F8B7 /* HowTo_AutoCamera.uproject */,
-				4DC5E81330357AFE082E7EFC /* Products */,
+				9D4D87093E4BE8DAA4050BB4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B0ACFFB3A8BC8523DB278419 = {
+		FCAED5F7C62D7483B3741A73 = {
 			isa = PBXGroup;
 			children = (
-				0471A1792ECD6391EBB5611F /* HowTo_AutoCamera */,
+				F10B7D88722C56B760240591 /* HowTo_AutoCamera */,
 				940AC694D607EE88F16DFF10 /* HowTo_AutoCamera.Target.cs */,
 				6EF1EB4E659A8BF798C986A9 /* HowTo_AutoCameraEditor.Target.cs */,
 			);
@@ -87,20 +97,24 @@
 			path = "Source";
 			sourceTree = "<group>";
 		};
-		0471A1792ECD6391EBB5611F = {
+		F10B7D88722C56B760240591 = {
 			isa = PBXGroup;
 			children = (
-				9B4837A481FBF5E6E248DE69 /* HowTo_AutoCamera.Build.cs */,
-				4F78FBB6524984F847F38251 /* HowTo_AutoCamera.cpp */,
-				9C5DDE7789D3C67366BB5509 /* HowTo_AutoCamera.h */,
-				50213F01030C5261901B19F4 /* HowTo_AutoCameraGameModeBase.cpp */,
-				738B1143CA1F2BD5E1062667 /* HowTo_AutoCameraGameModeBase.h */,
+				9B4837A481FBF5E6E248DE69 /* CameraDirector.cpp */,
+				4F78FBB6524984F847F38251 /* CameraDirector.h */,
+				9C5DDE7789D3C67366BB5509 /* HowTo_AutoCamera.Build.cs */,
+				50213F01030C5261901B19F4 /* HowTo_AutoCamera.cpp */,
+				738B1143CA1F2BD5E1062667 /* HowTo_AutoCamera.h */,
+				76AE9CA5DCB4B56B11AD8D78 /* HowTo_AutoCameraGameModeBase.cpp */,
+				9E925F2F6C2B6CD35D5ACC1C /* HowTo_AutoCameraGameModeBase.h */,
+				5C07F5E18DC9CF70CD36074A /* Mover.cpp */,
+				4BE6122BAFFA2EA73405D364 /* Mover.h */,
 			);
 			name = "HowTo_AutoCamera";
 			path = "Source/HowTo_AutoCamera";
 			sourceTree = "<group>";
 		};
-		C798D184C4D7F2B4F3FCCDAF = {
+		611F74AB8AA00525C72BEB26 = {
 			isa = PBXGroup;
 			children = (
 				9F1A6E3CBDFC1C4D72A426E5 /* DefaultEditor.ini */,
@@ -111,10 +125,10 @@
 			path = "Config";
 			sourceTree = "<group>";
 		};
-		4DC5E81330357AFE082E7EFC /* Products */ = {
+		9D4D87093E4BE8DAA4050BB4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				26EF33FF2CA2B253744D5F92 /* HowTo_AutoCamera */,
+				4DC5E81330357AFE082E7EFC /* HowTo_AutoCamera */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,10 +136,10 @@
 /* End PBXGroup section */
 
 /* Begin PBXLegacyTarget section */
-		F01D31DC2975D932958E1A4D /* HowTo_AutoCamera_Build */ = {
+		D409F9444F9D2A144B222481 /* HowTo_AutoCamera_Build */ = {
 			isa = PBXLegacyTarget;
 			buildArgumentsString = "$(ACTION) $(UE_BUILD_TARGET_NAME) $(PLATFORM_NAME) $(UE_BUILD_TARGET_CONFIG) \"/Users/juanpabloyepez/Folders/Unreal/HowTo_AutoCamera/HowTo_AutoCamera.uproject\"";
-			buildConfigurationList = 21EA4C1E8849ACBBE3538C59 /* Build configuration list for PBXLegacyTarget "HowTo_AutoCamera_Build" */;
+			buildConfigurationList = DF27D09C53B5DFE7736D2FD9 /* Build configuration list for PBXLegacyTarget "HowTo_AutoCamera_Build" */;
 			buildPhases = (
 			);
 			buildToolPath = "/Users/Shared/Epic Games/UE_4.18/Engine/Build/BatchFiles/Mac/Build.sh";
@@ -139,28 +153,28 @@
 /* End PBXLegacyTarget section */
 
 /* Begin PBXNativeTarget section */
-		972BFBEC045FD079163C0959 /* HowTo_AutoCamera */ = {
+		D6DF438CF75B8698D4E5DE42 /* HowTo_AutoCamera */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9102F2F26593AD752743B6AE /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera" */;
+			buildConfigurationList = 5593CB2AA1A4AF9D90D7D614 /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera" */;
 			buildPhases = (
 			);
 			dependencies = (
-				8C716FB348391394805E6C64 /* PBXTargetDependency */,
+				0DFB867C9E909641174148A9 /* PBXTargetDependency */,
 			);
 			name = "HowTo_AutoCamera";
 			passBuildSettingsInEnvironment = 1;
 			productName = "HowTo_AutoCamera";
-			productReference = "26EF33FF2CA2B253744D5F92";
+			productReference = "4DC5E81330357AFE082E7EFC";
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXNativeTarget section */
-		061468DDAC18F08AB7DFD20B /* HowTo_AutoCamera_Index */ = {
+		A78310E2C649A0D7A1C7B2C3 /* HowTo_AutoCamera_Index */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D6DF438CF75B8698D4E5DE42 /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera_Index" */;
+			buildConfigurationList = FA40D198FB73CD2AA0673308 /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera_Index" */;
 			buildPhases = (
-				D409F9444F9D2A144B222481 /* Sources */,
+				25CBA853871B94563D996E08 /* Sources */,
 			);
 			dependencies = (
 			);
@@ -172,38 +186,38 @@
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5593CB2AA1A4AF9D90D7D614 /* Project object */ = {
+		64DEAB534F978967DA209CCC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "Epic Games, Inc.";
 				TargetAttributes = {
-					972BFBEC045FD079163C0959 = {
+					D6DF438CF75B8698D4E5DE42 = {
 						ProvisioningStyle = Manual;
 					};
 				};
 			};
-			buildConfigurationList = 0DFB867C9E909641174148A9 /* Build configuration list for PBXProject "HowTo_AutoCamera" */;
+			buildConfigurationList = 8C474D02824DDF17740DA112 /* Build configuration list for PBXProject "HowTo_AutoCamera" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en
 			);
-			mainGroup = 0520C487CCF4842035268818;
-			productRefGroup = 4DC5E81330357AFE082E7EFC;
+			mainGroup = E447EBFFA00438404F087EE8;
+			productRefGroup = 9D4D87093E4BE8DAA4050BB4;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-			972BFBEC045FD079163C0959 /* HowTo_AutoCamera */,
-			F01D31DC2975D932958E1A4D /* HowTo_AutoCamera_Build */,
-			061468DDAC18F08AB7DFD20B /* HowTo_AutoCamera_Index */,
+			D6DF438CF75B8698D4E5DE42 /* HowTo_AutoCamera */,
+			D409F9444F9D2A144B222481 /* HowTo_AutoCamera_Build */,
+			A78310E2C649A0D7A1C7B2C3 /* HowTo_AutoCamera_Index */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin XCBuildConfiguration section */
-		DF27D09C53B5DFE7736D2FD9 /* "DebugGame" */ = {
+		AB89C7D5E85C7C84C8656434 /* "DebugGame" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -726,7 +740,7 @@
 			};
 			name = "DebugGame";
 		};
-		8C474D02824DDF17740DA112 /* "DebugGame Editor" */ = {
+		426B32762B8FCD74AFF27A03 /* "DebugGame Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -1249,7 +1263,7 @@
 			};
 			name = "DebugGame Editor";
 		};
-		AB89C7D5E85C7C84C8656434 /* "Development" */ = {
+		764A06051D453A1EC620A105 /* "Development" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -1772,7 +1786,7 @@
 			};
 			name = "Development";
 		};
-		426B32762B8FCD74AFF27A03 /* "Development Editor" */ = {
+		C06E0E064407E86F9E817D14 /* "Development Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -2295,7 +2309,7 @@
 			};
 			name = "Development Editor";
 		};
-		764A06051D453A1EC620A105 /* "Shipping" */ = {
+		D38F2BD64DF1BC99EAF43FAB /* "Shipping" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -2818,7 +2832,7 @@
 			};
 			name = "Shipping";
 		};
-		A78310E2C649A0D7A1C7B2C3 /* "DebugGame" */ = {
+		C6D5D92924C66DDE3B37D9D5 /* "DebugGame" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -2844,7 +2858,7 @@
 			};
 			name = "DebugGame";
 		};
-		E447EBFFA00438404F087EE8 /* "DebugGame Editor" */ = {
+		A34810A1BA6056477724A411 /* "DebugGame Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64";
@@ -2859,7 +2873,7 @@
 			};
 			name = "DebugGame Editor";
 		};
-		C6D5D92924C66DDE3B37D9D5 /* "Development" */ = {
+		391928968392AA9D5707AC85 /* "Development" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -2885,7 +2899,7 @@
 			};
 			name = "Development";
 		};
-		A34810A1BA6056477724A411 /* "Development Editor" */ = {
+		B0ACFFB3A8BC8523DB278419 /* "Development Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64";
@@ -2900,7 +2914,7 @@
 			};
 			name = "Development Editor";
 		};
-		391928968392AA9D5707AC85 /* "Shipping" */ = {
+		3564AAC68EC821B3DF4FAF37 /* "Shipping" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -2926,7 +2940,7 @@
 			};
 			name = "Shipping";
 		};
-		FA40D198FB73CD2AA0673308 /* "DebugGame" */ = {
+		5BE5B8337327AB04DE7E5EB5 /* "DebugGame" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -2936,7 +2950,7 @@
 			};
 			name = "DebugGame";
 		};
-		9D4D87093E4BE8DAA4050BB4 /* "DebugGame Editor" */ = {
+		D42556B44B196EE75806F108 /* "DebugGame Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64";
@@ -2946,7 +2960,7 @@
 			};
 			name = "DebugGame Editor";
 		};
-		5BE5B8337327AB04DE7E5EB5 /* "Development" */ = {
+		8708958D1E1278E580163D01 /* "Development" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -2956,7 +2970,7 @@
 			};
 			name = "Development";
 		};
-		D42556B44B196EE75806F108 /* "Development Editor" */ = {
+		C798D184C4D7F2B4F3FCCDAF /* "Development Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64";
@@ -2966,7 +2980,7 @@
 			};
 			name = "Development Editor";
 		};
-		8708958D1E1278E580163D01 /* "Shipping" */ = {
+		1B0BF50EC3F32E1136B2B035 /* "Shipping" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -2976,7 +2990,7 @@
 			};
 			name = "Shipping";
 		};
-		64DEAB534F978967DA209CCC /* "DebugGame" */ = {
+		8413F2488887EBC066738DB2 /* "DebugGame" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -3002,7 +3016,7 @@
 			};
 			name = "DebugGame";
 		};
-		25CBA853871B94563D996E08 /* "DebugGame Editor" */ = {
+		F534D84EB1E9059299EFA43F /* "DebugGame Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64";
@@ -3017,7 +3031,7 @@
 			};
 			name = "DebugGame Editor";
 		};
-		8413F2488887EBC066738DB2 /* "Development" */ = {
+		1269CA12CBD342D492D31498 /* "Development" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -3043,7 +3057,7 @@
 			};
 			name = "Development";
 		};
-		F534D84EB1E9059299EFA43F /* "Development Editor" */ = {
+		0471A1792ECD6391EBB5611F /* "Development Editor" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64";
@@ -3058,7 +3072,7 @@
 			};
 			name = "Development Editor";
 		};
-		1269CA12CBD342D492D31498 /* "Shipping" */ = {
+		AB1B66023F33C50F31F544C9 /* "Shipping" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
@@ -3087,55 +3101,55 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DFB867C9E909641174148A9 /* Build configuration list for PBXProject "HowTo_AutoCamera" */ = {
+		8C474D02824DDF17740DA112 /* Build configuration list for PBXProject "HowTo_AutoCamera" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DF27D09C53B5DFE7736D2FD9 /* "DebugGame" */,
-				8C474D02824DDF17740DA112 /* "DebugGame Editor" */,
-				AB89C7D5E85C7C84C8656434 /* "Development" */,
-				426B32762B8FCD74AFF27A03 /* "Development Editor" */,
-				764A06051D453A1EC620A105 /* "Shipping" */,
+				AB89C7D5E85C7C84C8656434 /* "DebugGame" */,
+				426B32762B8FCD74AFF27A03 /* "DebugGame Editor" */,
+				764A06051D453A1EC620A105 /* "Development" */,
+				C06E0E064407E86F9E817D14 /* "Development Editor" */,
+				D38F2BD64DF1BC99EAF43FAB /* "Shipping" */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Development;
 		};
-		21EA4C1E8849ACBBE3538C59 /* Build configuration list for PBXLegacyTarget "HowTo_AutoCamera_Build" */ = {
+		DF27D09C53B5DFE7736D2FD9 /* Build configuration list for PBXLegacyTarget "HowTo_AutoCamera_Build" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FA40D198FB73CD2AA0673308 /* "DebugGame" */,
-				9D4D87093E4BE8DAA4050BB4 /* "DebugGame Editor" */,
-				5BE5B8337327AB04DE7E5EB5 /* "Development" */,
-				D42556B44B196EE75806F108 /* "Development Editor" */,
-				8708958D1E1278E580163D01 /* "Shipping" */,
+				5BE5B8337327AB04DE7E5EB5 /* "DebugGame" */,
+				D42556B44B196EE75806F108 /* "DebugGame Editor" */,
+				8708958D1E1278E580163D01 /* "Development" */,
+				C798D184C4D7F2B4F3FCCDAF /* "Development Editor" */,
+				1B0BF50EC3F32E1136B2B035 /* "Shipping" */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Development;
 		};
-		9102F2F26593AD752743B6AE /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera" */ = {
+		5593CB2AA1A4AF9D90D7D614 /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A78310E2C649A0D7A1C7B2C3 /* "DebugGame" */,
-				E447EBFFA00438404F087EE8 /* "DebugGame Editor" */,
-				C6D5D92924C66DDE3B37D9D5 /* "Development" */,
-				A34810A1BA6056477724A411 /* "Development Editor" */,
-				391928968392AA9D5707AC85 /* "Shipping" */,
+				C6D5D92924C66DDE3B37D9D5 /* "DebugGame" */,
+				A34810A1BA6056477724A411 /* "DebugGame Editor" */,
+				391928968392AA9D5707AC85 /* "Development" */,
+				B0ACFFB3A8BC8523DB278419 /* "Development Editor" */,
+				3564AAC68EC821B3DF4FAF37 /* "Shipping" */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Development;
 		};
-		D6DF438CF75B8698D4E5DE42 /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera_Index" */ = {
+		FA40D198FB73CD2AA0673308 /* Build configuration list for PBXNativeTarget "HowTo_AutoCamera_Index" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				64DEAB534F978967DA209CCC /* "DebugGame" */,
-				25CBA853871B94563D996E08 /* "DebugGame Editor" */,
-				8413F2488887EBC066738DB2 /* "Development" */,
-				F534D84EB1E9059299EFA43F /* "Development Editor" */,
-				1269CA12CBD342D492D31498 /* "Shipping" */,
+				8413F2488887EBC066738DB2 /* "DebugGame" */,
+				F534D84EB1E9059299EFA43F /* "DebugGame Editor" */,
+				1269CA12CBD342D492D31498 /* "Development" */,
+				0471A1792ECD6391EBB5611F /* "Development Editor" */,
+				AB1B66023F33C50F31F544C9 /* "Shipping" */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Development;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5593CB2AA1A4AF9D90D7D614 /* Project object */;
+	rootObject = 64DEAB534F978967DA209CCC /* Project object */;
 }
