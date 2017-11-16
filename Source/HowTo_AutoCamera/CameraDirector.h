@@ -6,6 +6,32 @@
 #include "GameFramework/Actor.h"
 #include "CameraDirector.generated.h"
 
+USTRUCT()
+struct FCamStruct {
+
+	GENERATED_BODY()
+
+	UPROPERTY(EditAnywhere)
+	AActor* Camera;
+
+	UPROPERTY(EditAnywhere)
+	float CameraChangeInterval;
+
+	UPROPERTY(EditAnywhere)
+	float SmoothBlendTime;
+
+	const float GetCameraChangeInterval() {
+		return CameraChangeInterval;
+	}
+
+	const float GetSmoothBlendtime() {
+		return SmoothBlendTime;
+	}
+
+
+};
+
+
 UCLASS()
 class HOWTO_AUTOCAMERA_API ACameraDirector : public AActor
 {
@@ -23,12 +49,10 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-    UPROPERTY(EditAnywhere)
-    AActor* CameraOne;
-    
-    UPROPERTY(EditAnywhere)
-    AActor* CameraTwo;
+	UPROPERTY(EditAnywhere)
+		TArray<FCamStruct> Cameras;
     
     float TimeToNextCameraChange;
 	
+	int32 CamIdx = 0;
 };
